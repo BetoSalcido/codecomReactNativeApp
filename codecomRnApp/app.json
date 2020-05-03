@@ -1,0 +1,17 @@
+{
+  "name": "codecomRnApp",
+  "displayName": "codecomRnApp",
+  "expo": {
+    "name": "codecomRnApp",
+    "slug": "codecomRnApp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
